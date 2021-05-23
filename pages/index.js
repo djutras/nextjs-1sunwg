@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">1.0.0.6 - 5/20/2021!</a>
+          Welcome to <a href="https://nextjs.org">1.0.0.7 - 5/20/2021!</a>
         </h1>
 
         <p className={styles.description}>
